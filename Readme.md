@@ -4,6 +4,6 @@
 
 ### It was developed using below: 
 - **Language**: _Python 2.7_
-- **Databases**: _PostgreSQL _
+- **Databases**: _PostgreSQL_
 - **ORM**: _SqlAlchemy_
 - **SSH Connector**: _Paramiko_
